@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm Patrick, from Vienna, Austria and currently studying Information & Software Engineering at the [TU Wien](https.//tuwien.ac.at)
+I'm Patrick, from Vienna, Austria and currently studying Information & Software Engineering at the [TU Wien](https://tuwien.ac.at)
 
 <!--
 **PatrickZdarsky/PatrickZdarsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
