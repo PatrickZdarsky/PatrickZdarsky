@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm Patrick, from Vienna, Austria and currently studying Information & Software Engineering at the [TU Wien](https://tuwien.ac.at). Besides that I work as a Cloud Platform Engineer and sometimes as a voluntary EMT🚑.
+I'm Patrick, from Vienna, Austria and currently studying Information & Software Engineering at the [TU Wien](https://tuwien.ac.at). Besides that I work as a Cloud Platform Engineer, a System Administrator and sometimes as a voluntary EMT🚑.
 
 ### Things that I know
 - **Kubernetes** - Or more specifically Openshift, which I administer. From Application development built for it to running and setting it up, I've done it all.
@@ -13,7 +13,7 @@ I'm Patrick, from Vienna, Austria and currently studying Information & Software 
 - **Baremetal** - I am not afraid from getting a little bit hands-on with the servers. 😏
 - **Networking** - I would say amateur level, VLANs are no problem, including Firewalling. But actual Switch/Router config is not my thing.
 
-
+[![My Skills](https://skillicons.dev/icons?i=idea,java,aws,bitbucket,cs,dotnet,debian,docker,gitlab,grafana,graphql,hibernate,jenkins,kubernetes,latex,mongodb,nginx,openshift,powershell,rabbitmq,redhat,redis,rider,spring,sentry)](https://skillicons.dev)
 
 <!--
 **PatrickZdarsky/PatrickZdarsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
